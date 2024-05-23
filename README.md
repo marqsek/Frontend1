@@ -19,3 +19,4 @@ By selecting different branches you can get the sample code that you should have
 | jenkinsfile | CI/CD 4 | Added Jenkinsfile |
 | final | CI/CD 7 | Dockerhub deployment and app_of_apps trigger|
 | argocd | CI/CD 8 | ArgoCD trigger |
+# Frontend1
